@@ -1,0 +1,3 @@
+﻿  find_max.cpp
+C:\devC++\day02\day02\find_max.cpp(18,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  day02.vcxproj -> C:\devC++\day02\Debug\day02.exe
