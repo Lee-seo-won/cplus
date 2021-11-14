@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="continue_ex.cpp" />
     <ClCompile Include="for1.cpp" />
     <ClCompile Include="for2.cpp" />
     <ClCompile Include="forfor1.cpp">

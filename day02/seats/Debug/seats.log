@@ -1,0 +1,4 @@
+﻿  seat_main.cpp
+C:\devC++\day02\seats\seat_main.cpp(6,25): warning C4101: 'rowNum' :참조되지 않은 지역 변수입니다.
+seat_main.obj : error LNK2019: "void __cdecl getSeat(int,int)" (?getSeat@@YAXHH@Z)_main 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\devC++\day02\Debug\seats.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
